@@ -28,3 +28,6 @@ x.display()
 # Creating inner class object
 k = person.Dob()
 k.display()
+
+#creating with object
+j = p.Dob()
